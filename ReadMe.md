@@ -3,8 +3,7 @@
 TukoPamoja is a multipage website built to empower Kenyan creators with decentralized funding.
 The project demonstrates responsive design, interactivity with JavaScript, and professional deployment practices.
 
-🔗 Live URL: https://tukopamoja.netlify.app
- (replace with your actual live link)
+🔗 Live URL: https://wendy-okoth.github.io/TukoPamojaWebsite/
 
 🎯 Project Purpose
 
@@ -19,7 +18,7 @@ Ensure mobile responsiveness for users on all devices.
 Deploy the site so it can be accessed by anyone worldwide 🌐.
 
 📂 Project Structure
-tukopamoja-website/
+TukoPamojaWebsite/
 │
 ├── index.html       # 🏠 Home page (mission, hero section, features)
 ├── about.html       # ℹ️ About page (project goals, story)
@@ -60,29 +59,26 @@ Layout adjusts seamlessly for readability and accessibility.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/tukopamoja-website.git
+git clone https://github.com/PLP-WebTechnologies/july-2025-final-project-and-deployment-Wendy-Okoth.git
 
 
 Open the project folder:
 
-cd tukopamoja-website
+cd TukoPamojaWebsite
 
 
 Open index.html in your browser 🌐.
 
 🌐 Deployment
 
-The project is hosted on Netlify.
+The project is hosted on github.
 
-Fast deployment with automatic builds.
-
-Free .netlify.app link provided.
-
-🔗 Live URL: https://tukopamoja.netlify.app
+🔗 Live URL: https://wendy-okoth.github.io/TukoPamojaWebsite/
 
 👩‍💻 Author
 
 👤 Wendy Okoth
 📧 Email: wendyaokoth@gmail.com
+
 
 🌍 Project: TukoPamoja Website
