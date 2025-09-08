@@ -1,75 +1,81 @@
-🌍✨ TukoPamoja Website
+## 🌍✨ TukoPamoja Website
 
-TukoPamoja is a multipage website built to empower Kenyan creators with decentralized funding.
+**TukoPamoja** is a multipage website built to empower Kenyan creators with decentralized funding.
 The project demonstrates responsive design, interactivity with JavaScript, and professional deployment practices.
 
 🔗 Live URL: https://wendy-okoth.github.io/TukoPamojaWebsite/
 
-🎯 Project Purpose
+### 🎯 Project Purpose
 
 The goal of this project is to:
 
-Provide a clean, multipage website to showcase projects, contact information, and the mission of TukoPamoja.
+- Provide a clean, multipage website to showcase projects, contact information, and the mission of TukoPamoja.
 
-Demonstrate HTML, CSS, and JavaScript skills with a consistent layout.
+- Demonstrate HTML, CSS, and JavaScript skills with a consistent layout.
 
-Ensure mobile responsiveness for users on all devices.
+- Ensure mobile responsiveness for users on all devices.
 
-Deploy the site so it can be accessed by anyone worldwide 🌐.
+- Deploy the site so it can be accessed by anyone worldwide 🌐.
 
-📂 Project Structure
+## 📂 Project Structure
+
+```
 TukoPamojaWebsite/
 │
-├── index.html       # 🏠 Home page (mission, hero section, features)
-├── about.html       # ℹ️ About page (project goals, story)
-├── projects.html    # 📁 Projects showcase (cards, descriptions)
-├── contact.html     # ✉️ Contact page (form + details)
+├── index.html # 🏠 Home page (mission, hero section, features)
+├── about.html # ℹ️ About page (project goals, story)
+├── projects.html # 📁 Projects showcase (cards, descriptions)
+├── contact.html # ✉️ Contact page (form + details)
 │
 ├── css/
-│   └── style.css    # 🎨 Stylesheet (themes, layout, responsive design)
+│ └── style.css # 🎨 Stylesheet (themes, layout, responsive design)
 │
 ├── js/
-│   └── script.js    # ⚡ Interactivity (menu toggle, modals, etc.)
+│ └── script.js # ⚡ Interactivity (menu toggle, modals, etc.)
 │
-├── images/          # 🖼️ Assets and media files
+├── images/ # 🖼️ Assets and media files
 │
-└── README.md        # 📘 Documentation
+└── README.md # 📘 Documentation
+           
+```
 
-🚀 Features
+---
 
-✨ Gradient hero background in light purple & blue.
+## 🚀 Features
 
-📱 Responsive navigation bar with mobile toggle.
+- ✨ Gradient hero background in light purple & blue.
 
-🎨 Consistent header and footer across all pages.
+- 📱 Responsive navigation bar with mobile toggle.
 
-⚡ Interactive elements like toggle menus and modals.
+- 🎨 Consistent header and footer across all pages.
 
-🌍 Multipage design for Home, About, Projects, Contact.
+- ⚡ Interactive elements like toggle menus and modals.
 
-📱 Responsiveness
+- 🌍 Multipage design for Home, About, Projects, Contact.
 
-Designed with a mobile-first approach:
+- 📱 Responsiveness
 
-Works on small (≤520px), medium (≤900px), and large screens.
+- Designed with a mobile-first approach:
 
-Layout adjusts seamlessly for readability and accessibility.
+- Works on small (≤520px), medium (≤900px), and large screens.
 
-⚙️ Installation & Usage
+- Layout adjusts seamlessly for readability and accessibility.
 
-Clone the repository:
+
+## ⚙️ Installation & Usage
+
+- Clone the repository:
 
 git clone https://github.com/PLP-WebTechnologies/july-2025-final-project-and-deployment-Wendy-Okoth.git
 
 
-Open the project folder:
+- Open the project folder:
 
 cd TukoPamojaWebsite
 
+- Open index.html in your browser 🌐.
 
-Open index.html in your browser 🌐.
-
-🌐 Deployment
+### 🌐 Deployment
 
 The project is hosted on github.
 
@@ -78,7 +84,9 @@ The project is hosted on github.
 👩‍💻 Author
 
 👤 Wendy Okoth
+
 📧 Email: wendyaokoth@gmail.com
 
 
 🌍 Project: TukoPamoja Website
+
